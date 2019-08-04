@@ -1,0 +1,8 @@
+com\globallogic\test\testCases\TestCases.class
+com\globallogic\test\utilities\Driver.class
+com\globallogic\test\utilities\PropertiesUtils.class
+com\globallogic\test\utilities\TestBase.class
+com\globallogic\test\utilities\ReportGenerator.class
+com\globallogic\test\config\configuration.class
+com\globallogic\test\config\ConfigurationDetails.class
+com\globallogic\test\utilities\Driver$1.class

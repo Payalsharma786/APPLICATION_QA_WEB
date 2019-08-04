@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20215a3b-827c-4627-80e8-90d4aae3e83b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/globallogic/test/mainClass/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/globallogic/test/testCases/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/globallogic/test/testCases/TestCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logProperties/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logProperties/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/globallogic/test/testCases/TestCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/globallogic/test/testCases/TestCases.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/globallogic/test/utilities/Driver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/globallogic/test/utilities/Driver$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/globallogic/test/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/globallogic/test/utilities/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/globallogic/test/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/globallogic/test/utilities/TestBase.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1319251883">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+          <entry key="json" value="1" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+          <entry key="JSON" value="1" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="properties" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Properties" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1801663922">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="279" />
+          <entry key="properties" value="171" />
+          <entry key="xml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="279" />
+          <entry key="Properties" value="171" />
+          <entry key="XML" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="9" />
+          <entry key="java" value="21" />
+          <entry key="properties" value="7" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="JAVA" value="21" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/testCases/TestCases.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="90" lean-forward="true" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toStr</find>
+      <find>Fir</find>
+      <find>Firt</find>
+      <find>First</find>
+      <find>FirstTest</find>
+      <find>poi</find>
+      <find>before</find>
+      <find>url</find>
+      <find>public static void</find>
+      <find>user.dir</find>
+      <find>C:\POC_java_base\APPLICATION_QA_WEB\chromedriver.exe</find>
+      <find>C:\Automation_Practice Output</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/config/ff.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/TestCases/wd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/application/properties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/TestCases/FirstTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/TestCases/ReportGenerationExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/TestCases/TestCaseDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/TestCases/ReportGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/TestCases/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/Loggers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/config/ConfigurationDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/elements/HomePageElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logProperties/logs.out" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/testCases/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/PropertiesUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/config/configuration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/ReportGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcase.properties.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logProperties/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/mainClass/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/Driver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/config/configurationDetails.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/globallogic/test/testCases/TestCases.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AutomationPractice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AutomationPractice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1920" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="testCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logProperties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reportTemplete" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APPLICATION_QA_WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APPLICATION_QA_WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="APP&#9;FILE&#9;file://C:/POC_java_base/APPLICATION_QA_WEB/src/main/java/application.properties&#10;log4j&#9;FILE&#9;file://C:/POC_java_base/APPLICATION_QA_WEB/src/main/java/logProperties/log4j.properties&#10;.prop&#9;FILE&#9;file://C:/Users/payal.sharma/Desktop/POC/APPLICATION_QA_WEB/src/main/java/application.properties&#10;app&#9;FILE&#9;file://C:/Users/payal.sharma/Desktop/POC/APPLICATION_QA_WEB/src/main/java/application.properties" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563798003794" />
+    <property name="last_opened_file_path" value="C:/STB_CODE/Backupframework/automationframework/AutomationFramwork" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\payal.sharma\IdeaProjects\AutomationPractice\src\main\java\logProperties" />
+      <recent name="C:\Users\payal.sharma\IdeaProjects\AutomationPractice\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.globallogic.test.mainClass.MainClass" />
+      <module name="AutomationPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.globallogic.test.mainClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.globallogic.test.utilities.ReportGenerator" />
+      <module name="AutomationPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.globallogic.test.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportGenerator.reportGeneration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.globallogic.test.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.globallogic.test.utilities" />
+      <option name="MAIN_CLASS_NAME" value="com.globallogic.test.utilities.ReportGenerator" />
+      <option name="METHOD_NAME" value="reportGeneration" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.globallogic.test.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.globallogic.test.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.globallogic.test.testCases.TestCases" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.test001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.globallogic.test.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.globallogic.test.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.globallogic.test.testCases.TestCases" />
+      <option name="METHOD_NAME" value="test001" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestCases" />
+      <item itemvalue="JUnit.ReportGenerator.reportGeneration" />
+      <item itemvalue="JUnit.TestCases.test001" />
+      <item itemvalue="Application.ReportGenerator" />
+      <item itemvalue="Application.MainClass" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.TestCases" />
+        <item itemvalue="JUnit.TestCases.test001" />
+        <item itemvalue="Application.ReportGenerator" />
+        <item itemvalue="JUnit.ReportGenerator.reportGeneration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20215a3b-827c-4627-80e8-90d4aae3e83b" name="Default" comment="" />
+      <created>1532425027624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532425027624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestCases - 2018.08.06 at 16h 00m 37s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCases - 2018.08.06 at 19h 09m 44s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCases - 2018.08.06 at 19h 11m 54s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCases - 2018.08.06 at 19h 17m 04s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCases - 2018.08.06 at 19h 18m 55s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCases - 2018.08.06 at 19h 23m 27s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCases - 2018.08.08 at 19h 18m 22s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCases - 2018.08.08 at 19h 19m 38s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCases - 2018.11.19 at 11h 46m 19s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCases - 2018.12.03 at 11h 53m 43s.xml">
+      <configuration name="TestCases" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24739583" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49785176" weight="0.21212122" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8170573" weight="0.3371105" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7623698" weight="0.48300284" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2376302" side_tool="true" weight="0.48300284" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49570355" weight="0.27478755" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.07747396" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/globallogic/test/testCases/TestCases.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>new FirefoxDriver();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Instance = new FirefoxDriver();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/config/ff.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/gs.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/TestCases/wd.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/application/properties.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/logProperties/logs.out" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logProperties/log.out/logs.out" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunBefores.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.13.0/selenium-remote-driver-3.13.0.jar!/org/openqa/selenium/remote/http/JsonHttpResponseCodec.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/TestCases/ReportGenerationExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/TestCases/TestCaseDetails.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/Locators/HomePageLocator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/Loggers.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/elements/HomePageElements.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9.jar!/org/apache/poi/xssf/usermodel/XSSFWorkbook.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-sources.jar!/org/apache/poi/xssf/usermodel/XSSFWorkbook.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/logProperties/logs.out" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1097">
+          <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/locators/TestCasesLocator.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase.properties.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/MainClass.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="716" column="40" lean-forward="true" selection-start-line="716" selection-start-column="40" selection-end-line="716" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/config/ConfigurationDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logProperties/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/config/configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.13.0/selenium-chrome-driver-3.13.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.13.0/selenium-remote-driver-3.13.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9911">
+          <caret line="746" selection-start-line="746" selection-end-line="746" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/ReportGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/mail/mail/1.4/mail-1.4.jar!/javax/mail/Message.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/mail/mail/1.4/mail-1.4.jar!/javax/mail/Transport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/mainClass/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/PropertiesUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/config/configurationDetails.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="81" column="43" lean-forward="true" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3252#3562#0" expanded="true" />
+            <element signature="e#3561#3562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/globallogic/test/testCases/TestCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="90" lean-forward="true" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AutomationPractice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
